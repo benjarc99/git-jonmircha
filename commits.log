@@ -1,0 +1,98 @@
+commit 23d21137e7c5148015a54fd142b126535ad0b73a
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 16:44:14 2022 -0300
+
+    Agregando dos parrafos
+
+commit f502a995cdb793da96b872ddac4c3f73aa51d2cc
+Merge: 34bd7c6 d259d1f
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 16:41:04 2022 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 34bd7c61bf4d138d8a5307e01c007baa3b03cd05
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 15:27:13 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit d259d1feacbbe32c975417c15165f4b8195d7059
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 15:27:13 2022 -0300
+
+    Agregando estaciones del año
+
+commit c4dcfaa5a40ea75ab2a1a6b34613d60b598b073e
+Merge: 39d1b51 a5abbcd
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 15:02:22 2022 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit a5abbcd2b0fc5db75838d01cc97be9ff33df807e
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 14:51:56 2022 -0300
+
+    Agregando index.js al index.html
+
+commit 39d1b519c1f7768bb8087ed33bed843e59f78726
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 14:49:37 2022 -0300
+
+    Agregando styles.css al index.html
+
+commit fff8b179a8e4241c7ef1d3861d612dfca61f4653
+Merge: 7832a39 680aa29
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 14:23:05 2022 -0300
+
+    Merge branch 'js'
+
+commit 680aa297e4e61f0db070ddfbe0aeba43c8e9b7de
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 13:00:35 2022 -0300
+
+    Creando index.js
+
+commit 7832a3912a9e6e3f1d9ab7a61f1dc8d3072a6a97
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 12:36:46 2022 -0300
+
+    Creando styles.css
+
+commit e361634d1caa599db437a8b300f69054ef1417fb
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 12:27:10 2022 -0300
+
+    Creando archivo index.html
+
+commit 32f378584a0f3f31cc5918350017eda6c4e14af7
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Thu Sep 8 12:09:06 2022 -0300
+
+    Ignorando archivos .exe
+
+commit 145e645c4433bfa4516d4844da5f3a797944d59c
+Author: Benjamin Quattrocchi <85759135+benjarc99@users.noreply.github.com>
+Date:   Fri Sep 2 16:30:28 2022 -0300
+
+    Creando licencia del repositorio
+
+commit b2dc2a67549d8fa8efa57ee4b9a85b754d2ebd88
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Fri Sep 2 16:08:31 2022 -0300
+
+    Aregando mas contenido al README
+
+commit 7634198ad45eb4171d435de2639cb1e861cec7f2
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Fri Sep 2 15:48:33 2022 -0300
+
+    Agregando contenido inicial al README
+
+commit dd4313fd5a7e247a12dc577b6d31d7c6ac7078cd
+Author: Benjamin Quattrocchi <benjaquattro@MacBook-Pro-de-Benjamin.local>
+Date:   Fri Sep 2 15:40:43 2022 -0300
+
+    Primer commit
